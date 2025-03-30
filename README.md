@@ -19,8 +19,6 @@ Codexium is a space where **innovation meets development**. I create open-source
 ---
 
 ### 🔗 Connect with Me
-- 🎥 [YouTube](#)
-- 🐦 [Twitter](#)
-- 💼 [LinkedIn](#)
-
+- 🎥 [YouTube](https://www.youtube.com/channel/UC-ooZhMDIiZF8RVS49_aZ6A)
+- 
 🌟 **Follow & Star** to stay updated on my latest projects!
